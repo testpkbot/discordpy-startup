@@ -15,7 +15,7 @@ async def on_command_error(ctx, error):
     
 @bot.command(name="ゴリランダー")
 async def goriranda(ctx):
-    await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")
+    await ctx.send(f"H:100 A:125 B:90 C:60 D:70 S:85")
     
 @bot.command(name="エースバーン")
 async def esuban(ctx):
