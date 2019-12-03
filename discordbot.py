@@ -14,592 +14,592 @@ async def on_command_error(ctx, error):
     
     
 @bot.command(name="ゴリランダー")
-async def mimikkyu(ctx):
+async def goriranda(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")
     
 @bot.command(name="エースバーン")
-async def mimikkyu(ctx):
+async def esuban(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")
 
     
 @bot.command(name="インテレオン")
-async def mimikkyu(ctx):
+async def intereon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")
     
 @bot.command(name="イオルブ")
-async def mimikkyu(ctx):
+async def iorubu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バタフリー")
-async def mimikkyu(ctx):
+async def batafuri(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")
     
 @bot.command(name="クワガノン")
-async def mimikkyu(ctx):
+async def kuwaganon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヨルノズク")
-async def mimikkyu(ctx):
+async def yorunozuku(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アーマーガア")
-async def mimikkyu(ctx):
+async def amagaa(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ホシガリス")
-async def mimikkyu(ctx):
+async def hosigarisu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ケンホロウ")
-async def mimikkyu(ctx):
+async def kennhorou(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="フォックスライ")
-async def mimikkyu(ctx):
+async def fokkusurai(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="タチフサグマ")
-async def mimikkyu(ctx):
+async def tatifusaguma(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バイウールー")
-async def mimikkyu(ctx):
+async def baiuru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ルンパッパ")
-async def mimikkyu(ctx):
+async def runpappa(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ダーテング")
-async def mimikkyu(ctx):
+async def datengu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カジリガメ")
-async def mimikkyu(ctx):
+async def kajirigame(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="レパルダス")
-async def mimikkyu(ctx):
+async def reparudasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="パルスワン")
-async def mimikkyu(ctx):
+async def parusuwan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ホルード")
-async def mimikkyu(ctx):
+async def horudo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="チラチーノ")
-async def mimikkyu(ctx):
+async def tiratino(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アマージョ")
-async def mimikkyu(ctx):
+async def amajo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ラフレシア")
-async def mimikkyu(ctx):
+async def rahuresia(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="キレイハナ")
-async def mimikkyu(ctx):
+async def kireihana(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ロズレイド")
-async def mimikkyu(ctx):
+async def rozureido(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ぺリッパー")
-async def mimikkyu(ctx):
+async def perippa(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="デンチュラ")
-async def mimikkyu(ctx):
+async def dentyura(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ライボルト")
-async def mimikkyu(ctx):
+async def raiboruto(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="キュウコン")
-async def mimikkyu(ctx):
+async def kyuukon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ウインディ")
-async def mimikkyu(ctx):
+async def uindexi(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バイバニラ")
-async def mimikkyu(ctx):
+async def baibanira(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マンムー")
-async def mimikkyu(ctx):
+async def manmu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="デリバード")
-async def mimikkyu(ctx):
+async def deribado(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オニゴーリ")
-async def mimikkyu(ctx):
+async def onigori(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ユキメノコ")
-async def mimikkyu(ctx):
+async def yukimenoko(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ネンドール")
-async def mimikkyu(ctx):
+async def nendoru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バンバドロ")
-async def mimikkyu(ctx):
+async def banbadoro(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="イワパレス")
-async def mimikkyu(ctx):
+async def iwaparesu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ゴルーグ")
-async def mimikkyu(ctx):
+async def gorugu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ムシャーナ")
-async def mimikkyu(ctx):
+async def musyana(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ネイティオ")
-async def mimikkyu(ctx):
+async def neitexio(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="キテルグマ")
-async def mimikkyu(ctx):
+async def kiteruguma(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ユキノオー")
-async def mimikkyu(ctx):
+async def yukinoo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="キングラー")
-async def mimikkyu(ctx):
+async def kingura(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヌオー")
-async def mimikkyu(ctx):
+async def nuo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="シザリガー")
-async def mimikkyu(ctx):
+async def sizariga(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="テッカニン")
-async def mimikkyu(ctx):
+async def tekkanin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヌケニン")
-async def mimikkyu(ctx):
+async def nukenin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="サワムラー")
-async def mimikkyu(ctx):
+async def sawamura(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="エビワラー")
-async def mimikkyu(ctx):
+async def ebiwara(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カポエラー")
-async def mimikkyu(ctx):
+async def kapoera(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ゴロンダ")
-async def mimikkyu(ctx):
+async def goronda(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ギギギアル")
-async def mimikkyu(ctx):
+async def gigigiaru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ビークイン")
-async def mimikkyu(ctx):
+async def bikuin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドータクン")
-async def mimikkyu(ctx):
+async def dotakun(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="サーナイト")
-async def mimikkyu(ctx):
+async def sanaito(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="エルレイド")
-async def mimikkyu(ctx):
+async def erureido(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="フワライド")
-async def mimikkyu(ctx):
+async def huwaraido(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ワタシラガ")
-async def mimikkyu(ctx):
+async def watasiraga(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="チェリム")
-async def mimikkyu(ctx):
+async def tixerimu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="スカタンク")
-async def mimikkyu(ctx):
+async def sukatanku(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ガマゲロゲ")
-async def mimikkyu(ctx):
+async def gamageroge(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヨノワール")
-async def mimikkyu(ctx):
+async def yonowaru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カイリキー")
-async def mimikkyu(ctx):
+async def kairiki(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ゲンガー")
-async def mimikkyu(ctx):
+async def genga(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ギャラドス")
-async def mimikkyu(ctx):
+async def gyaradosu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アズマオウ")
-async def mimikkyu(ctx):
+async def azumaou(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オクタン")
-async def mimikkyu(ctx):
+async def okutan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="パルシェン")
-async def mimikkyu(ctx):
+async def parusixen(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ミロカロス")
-async def mimikkyu(ctx):
+async def mirokarosu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バスラオ")
-async def mimikkyu(ctx):
+async def basurao(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヨワシ")
-async def mimikkyu(ctx):
+async def yowasi(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ナマコブシ")
-async def mimikkyu(ctx):
+async def namakobusi(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ダストダス")
-async def mimikkyu(ctx):
+async def dasutodasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マルヤクデ")
-async def mimikkyu(ctx):
+async def maruyakude(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="セキタンザン")
-async def mimikkyu(ctx):
+async def sekitanzan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ダグトリオ")
-async def mimikkyu(ctx):
+async def dagutorio(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドリュウズ")
-async def mimikkyu(ctx):
+async def doryuuzu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ギガイアス")
-async def mimikkyu(ctx):
+async def gigaiasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ローブシン")
-async def mimikkyu(ctx):
+async def robusin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ハハコモリ")
-async def mimikkyu(ctx):
+async def hahakomori(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オンバーン")
-async def mimikkyu(ctx):
+async def onban(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ハガネール")
-async def mimikkyu(ctx):
+async def haganeru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カマスジョー")
-async def mimikkyu(ctx):
+async def kamasujo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ニャイキング")
-async def mimikkyu(ctx):
+async def nyaikingu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ペルシアン")
-async def mimikkyu(ctx):
+async def perusian(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マホイップ")
-async def mimikkyu(ctx):
+async def mahoippu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アブリボン")
-async def mimikkyu(ctx):
+async def aburibon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ナットレイ")
-async def mimikkyu(ctx):
+async def nattorei(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="パンプジン")
-async def mimikkyu(ctx):
+async def panpujin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ライチュウ")
-async def mimikkyu(ctx):
+async def raityuu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="シャワーズ")
-async def mimikkyu(ctx):
+async def syawazu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="サンダース")
-async def mimikkyu(ctx):
+async def sandasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ブースター")
-async def mimikkyu(ctx):
+async def busuta(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="エーフィ")
-async def mimikkyu(ctx):
+async def efi(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ブラッキー")
-async def mimikkyu(ctx):
+async def burakki(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="リーフィア")
-async def mimikkyu(ctx):
+async def rifia(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="グレイシア")
-async def mimikkyu(ctx):
+async def gureisia(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ニンフィア")
-async def mimikkyu(ctx):
+async def ninfia(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アップリュー")
-async def mimikkyu(ctx):
+async def appuryu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="タルップル")
-async def mimikkyu(ctx):
+async def taruppuru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ニャオニクス")
-async def mimikkyu(ctx):
+async def nyaonikusu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ペロリーム")
-async def mimikkyu(ctx):
+async def perorimu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="フレフワン")
-async def mimikkyu(ctx):
+async def hurehuwan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オニシズクモ")
-async def mimikkyu(ctx):
+async def onisizukumo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ソーナンス")
-async def mimikkyu(ctx):
+async def sonansu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ネギガナイト")
-async def mimikkyu(ctx):
+async def negiganaito(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ランターン")
-async def mimikkyu(ctx):
+async def rantan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドクロッグ")
-async def mimikkyu(ctx):
+async def dokuroggu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ズルズキン")
-async def mimikkyu(ctx):
+async def zuruzukin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マッギョ")
-async def mimikkyu(ctx):
+async def maggyo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ツボツボ")
-async def mimikkyu(ctx):
+async def tubotubo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ナマズン")
-async def mimikkyu(ctx):
+async def namazun(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="トリトドン")
-async def mimikkyu(ctx):
+async def toritodon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="グソクムシャ")
-async def mimikkyu(ctx):
+async def gusokumusya(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ガメノデス")
-async def mimikkyu(ctx):
+async def gamenodesu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="サニゴーン")
-async def mimikkyu(ctx):
+async def sanigon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オーロンゲ")
-async def mimikkyu(ctx):
+async def oronge(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ブリムオン")
-async def mimikkyu(ctx):
+async def burimuon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="エンニュート")
-async def mimikkyu(ctx):
+async def ennyuto(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="キリキザン")
-async def mimikkyu(ctx):
+async def kirikizan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ナゲキ")
-async def mimikkyu(ctx):
+async def nageki(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ダゲキ")
-async def mimikkyu(ctx):
+async def dageki(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マタドガス")
-async def mimikkyu(ctx):
+async def matadogasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ウソッキー")
-async def mimikkyu(ctx):
+async def usokki(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ピクシー")
-async def mimikkyu(ctx):
+async def pikusi(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="トゲキッス")
-async def mimikkyu(ctx):
+async def togekkisu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カビゴン")
-async def mimikkyu(ctx):
+async def kabigon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="エルフーン")
-async def mimikkyu(ctx):
+async def erufun(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドサイドン")
-async def mimikkyu(ctx):
+async def dosaidon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ゴチルゼル")
-async def mimikkyu(ctx):
+async def gotiruzeru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ランクルス")
-async def mimikkyu(ctx):
+async def rankurusu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="シュバルゴ")
-async def mimikkyu(ctx):
+async def syubarugo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アギルダー")
-async def mimikkyu(ctx):
+async def agiruda(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オーベム")
-async def mimikkyu(ctx):
+async def obemu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ツンベアー")
-async def mimikkyu(ctx):
+async def tunbea(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ウォーグル")
-async def mimikkyu(ctx):
+async def uxoguru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バルジーナ")
-async def mimikkyu(ctx):
+async def barujina(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドラピオン")
-async def mimikkyu(ctx):
+async def dorapion(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="シャンデラ")
-async def mimikkyu(ctx):
+async def syandera(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カラマネロ")
-async def mimikkyu(ctx):
+async def karamanero(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マニューラ")
-async def mimikkyu(ctx):
+async def manyura(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヤミラミ")
-async def mimikkyu(ctx):
+async def yamirami(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="クチート")
-async def mimikkyu(ctx):
+async def kutito(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マラカッチ")
-async def mimikkyu(ctx):
+async def marakatti(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="シンボラー")
-async def mimikkyu(ctx):
+async def sinbora(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ルカリオ")
-async def mimikkyu(ctx):
+async def rukario(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="コータス")
-async def mimikkyu(ctx):
+async def kotasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ミミッキュ")
@@ -607,227 +607,227 @@ async def mimikkyu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ダイオウドウ")
-async def mimikkyu(ctx):
+async def daioudou(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ハリーセン")
-async def mimikkyu(ctx):
+async def harisen(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ブルンゲル")
-async def mimikkyu(ctx):
+async def burungeru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドヒドイデ")
-async def mimikkyu(ctx):
+async def dohidoide(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ウッウ")
-async def mimikkyu(ctx):
+async def uxtuu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ストリンダー")
-async def mimikkyu(ctx):
+async def sutorinda(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="サダイジャ")
-async def mimikkyu(ctx):
+async def sadaija(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="カバルドン")
-async def mimikkyu(ctx):
+async def kabarudon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="アイアント")
-async def mimikkyu(ctx):
+async def aianto(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="クイタラン")
-async def mimikkyu(ctx):
+async def kuitaran(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="エレザード")
-async def mimikkyu(ctx):
+async def erezado(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ルチャブル")
-async def mimikkyu(ctx):
+async def rutyaburu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="フライゴン")
-async def mimikkyu(ctx):
+async def huraigon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オノノクス")
-async def mimikkyu(ctx):
+async def ononokusu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="デスバーン")
-async def mimikkyu(ctx):
+async def desuban(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="デスカーン")
-async def mimikkyu(ctx):
+async def desukan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ギルガルド")
-async def mimikkyu(ctx):
+async def girugarudo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ギャロップ")
-async def mimikkyu(ctx):
+async def gyaroppu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ポットデス")
-async def mimikkyu(ctx):
+async def pottodesu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="イエッサン")
-async def mimikkyu(ctx):
+async def iessan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オーロット")
-async def mimikkyu(ctx):
+async def orotto(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マシェード")
-async def mimikkyu(ctx):
+async def masixedo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヤレユータン")
-async def mimikkyu(ctx):
+async def yareyutan(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ナゲツケサル")
-async def mimikkyu(ctx):
+async def nagetukesaru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="モルペコ")
-async def mimikkyu(ctx):
+async def morupeko(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="タイレーツ")
-async def mimikkyu(ctx):
+async def tairetu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ジジーロン")
-async def mimikkyu(ctx):
+async def jijiron(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バクガメス")
-async def mimikkyu(ctx):
+async def bakugamesu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="トゲデマル")
-async def mimikkyu(ctx):
+async def dogedemaru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="モスノウ")
-async def mimikkyu(ctx):
+async def mosunou(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="オトスパス")
-async def mimikkyu(ctx):
+async def otosupasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バチンウニ")
-async def mimikkyu(ctx):
+async def bantiuni(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="マンタイン")
-async def mimikkyu(ctx):
+async def mantain(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ホエルオー")
-async def mimikkyu(ctx):
+async def hoeruo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="クレベース")
-async def mimikkyu(ctx):
+async def kurebesu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ダダリン")
-async def mimikkyu(ctx):
+async def dadarin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ラプラス")
-async def mimikkyu(ctx):
+async def rapurasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ルナトーン")
-async def mimikkyu(ctx):
+async def runaton(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ソルロック")
-async def mimikkyu(ctx):
+async def sorurokku(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バリコオル")
-async def mimikkyu(ctx):
+async def barikooru(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヒヒダルマ")
-async def mimikkyu(ctx):
+async def hihidaruma(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="イシヘンジン")
-async def mimikkyu(ctx):
+async def isihenjin(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="コオリッポ")
-async def mimikkyu(ctx):
+async def koorippo(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ジュラルドン")
-async def mimikkyu(ctx):
+async def jurarudon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ロトム")
-async def mimikkyu(ctx):
+async def rotomu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="パッチラゴン")
-async def mimikkyu(ctx):
+async def pattiragon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="パッチルドン")
-async def mimikkyu(ctx):
+async def pattirudon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ウオノラゴン")
-async def mimikkyu(ctx):
+async def uonoragon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ウオチルドン")
-async def mimikkyu(ctx):
+async def uotirudon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="リザードン")
-async def mimikkyu(ctx):
+async def rizadon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="シルヴァディ")
-async def mimikkyu(ctx):
+async def siruvadexi(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="バンギラス")
-async def mimikkyu(ctx):
+async def bangirasu(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="サザンドラ")
-async def mimikkyu(ctx):
+async def sazandora(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ヌメルゴン")
-async def mimikkyu(ctx):
+async def numerugon(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ジャラランガ")
-async def mimikkyu(ctx):
+async def jararanga(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 @bot.command(name="ドラパルト")
-async def mimikkyu(ctx):
+async def doraparuto(ctx):
     await ctx.send(f"H:55 A:90 B:80 C:50 D:105 S:96")    
 
 
